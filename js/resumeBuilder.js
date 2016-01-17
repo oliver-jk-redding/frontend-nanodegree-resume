@@ -23,7 +23,7 @@ This is empty on purpose! Your code to build the resume will go here.
     "mobile": "027 309 2299",
     "email": "oliver.jk.redding@gmail.com",
     "github": "oliver-jk-redding",
-    "location": "Wellington"
+    "location": "Wellington, New Zealand"
   },
   "welcomeMessage": "Greetings! I am Ollie!",
   "skills": ["nun-chuks", "break dancing", "eating", "stealth assassinations"]
@@ -33,14 +33,14 @@ This is empty on purpose! Your code to build the resume will go here.
     "jobs": [{
       "employer": "Scots College",
       "title": "Teacher",
-      "location": "Wellington",
+      "location": "Wellington, New Zealand",
       "dates": "2012-2015",
       "description": "Secondary school teacher"
     },
     {
       "employer": "Bond n Bond",
       "title": "Sales Assistant",
-      "location": "Dunedin",
+      "location": "Dunedin, New Zealand",
       "dates": "2008-2011",
       "description": "Retail"
     }]
@@ -65,7 +65,7 @@ This is empty on purpose! Your code to build the resume will go here.
     "schools": [
       {
         "name": "Otago University",
-        "location": "Dunedin",
+        "location": "Dunedin, New Zealand",
         "degree": "BTheol",
         "majors": ["CHTH", "BIBS"],
         "dates": "2007-2010",
@@ -73,7 +73,7 @@ This is empty on purpose! Your code to build the resume will go here.
       },
       {
         "name": "Otago University",
-        "location": "Dunedin",
+        "location": "Dunedin, New Zealand",
         "degree": "GradDip Primary Teaching",
         "majors": ["Primary Teaching"],
         "dates": "2011",
